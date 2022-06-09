@@ -27,7 +27,7 @@ cd server
 npm install
 npm start
 ``````````````````````````
-Open [http://localhost:9000](http://localhost:9000) to view it in the browser.
+Open [http://localhost:9000](http://localhost:9000) to view it in the browser.  
 
 ### Client Installation
 ``````````````````````````
